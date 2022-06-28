@@ -20,14 +20,6 @@ logger.info("logger Ready")
 list_logger.info("list logger Ready")
 dict_logger.info("dict logger Ready")
 
-""" list_logger.debug("Harmless debug Message")
-list_logger.info("Just an information")
-list_logger.warning("Its a Warning")
-list_logger.error("Did you try to divide by zero")
-list_logger.critical("Internet is down") """
-
-
-
 
 ## USER DEFINED LIST CLASS
 try:
